@@ -1,4 +1,4 @@
-# Hash_Binary_Search_Tree
+# hash_binary_search_tree
 
 Introduction.
 
