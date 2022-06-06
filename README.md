@@ -1,4 +1,4 @@
-# hash_binary_search_tree
+# Hash_Binary_Search_Tree
 
 This program utlizes a hash binary search tree to search for a key in about O(logn).
 
